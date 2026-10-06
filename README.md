@@ -1,16 +1,74 @@
-## Hi there 👋
+# Olá! Eu sou Cássio Gabriel 👋
 
-<!--
-**CassioLopes-coder/CassioLopes-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
+💻 Em formação na área de Desenvolvimento de Software
+🚀 Atualmente focado em Desenvolvimento Web e JavaScript
 
-Here are some ideas to get you started:
+Estou construindo minha carreira na área de tecnologia através de estudos, projetos práticos e desenvolvimento contínuo das minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é transformar o conhecimento adquirido durante a graduação e meus estudos em projetos reais, mantendo uma evolução constante como desenvolvedor.
+
+---
+
+## Tecnologias e conhecimentos
+![JavaScript]
+
+
+### Desenvolvimento Web
+
+![HTML5]
+![CSS3]
+
+### Ferramentas
+
+![Git]
+![GitHub] 
+![VsCode]
+
+### Design e desenvolvimento
+
+![Figma]
+
+---
+
+## 📚 Atualmente estudando
+
+* JavaScript
+* Lógica de programação
+* Desenvolvimento Web
+* Git e GitHub
+* Estruturas e fundamentos de software
+* Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivos
+
+* Desenvolver projetos práticos para meu portfólio
+* Aprofundar meus conhecimentos em JavaScript
+* Aprender React e TypeScript
+* Evoluir minhas habilidades de desenvolvimento de software
+* Construir um portfólio profissional
+* Conquistar minha primeira oportunidade na área de tecnologia
+
+---
+
+## 📂 Projetos
+
+Em breve, este espaço será preenchido com projetos desenvolvidos durante minha jornada de aprendizado.
+
+> O objetivo é transformar conhecimento em projetos reais e documentar minha evolução como desenvolvedor.
+
+---
+
+## 📫 Onde me encontrar
+
+**LinkedIn:**
+[linkedin.com/in/cassio-tavares](https://linkedin.com/in/cassio-tavares/)
+
+**GitHub:**
+[github.com/CassioLopes-coder](https://github.com/CassioLopes-coder)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
